@@ -5,7 +5,7 @@ const Header: React.FC = () => (
   <header>
     <nav className="navbar navbar-expand-lg">
       <div className="container-fluid">
-        <a className="navbar-brand" href="www.google.com">
+        <a className="navbar-brand" href="https://www.google.com">
           <span className="navbar-logo ms-5"></span>
         </a>
         <button
@@ -26,43 +26,43 @@ const Header: React.FC = () => (
                 <a
                   className="nav-link active"
                   aria-current="page"
-                  href="www.google.com"
+                  href="https://www.google.com"
                 >
                   HOME
                 </a>
               </li>
               <li className="nav-item mx-2">
-                <a className="nav-link" href="www.google.com">
+                <a className="nav-link" href="https://www.google.com">
                   BIKES
                 </a>
               </li>
               <li className="nav-item mx-2">
-                <a className="nav-link" href="www.google.com">
+                <a className="nav-link" href="https://www.google.com">
                   GEAR
                 </a>
               </li>
               <li className="nav-item mx-2">
-                <a className="nav-link" href="www.google.com">
+                <a className="nav-link" href="https://www.google.com">
                   PARTS
                 </a>
               </li>
               <li className="nav-item mx-2">
-                <a className="nav-link" href="www.google.com">
+                <a className="nav-link" href="https://www.google.com">
                   TIRES
                 </a>
               </li>
               <li className="nav-item mx-2">
-                <a className="nav-link" href="www.google.com">
+                <a className="nav-link" href="https://www.google.com">
                   SERVICE-INFO
                 </a>
               </li>
               <li className="nav-item mx-2">
-                <a className="nav-link" href="www.google.com">
+                <a className="nav-link" href="https://www.google.com">
                   CATALOGUES
                 </a>
               </li>
               <li className="nav-item mx-2">
-                <a className="nav-link" href="www.google.com">
+                <a className="nav-link" href="https://www.google.com">
                   CONTACT
                 </a>
               </li>
