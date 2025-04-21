@@ -1,0 +1,35 @@
+/* font family */
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap");
+
+/* icons */
+@import "@fortawesome/fontawesome-free/css/all.css";
+
+/* main container styles */
+* {
+  box-sizing: border-box;
+}
+
+img {
+  max-width: 100%;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+  font-size: 1rem;
+  color: #000;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.wrap {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.section {
+  padding-top: 5vh;
+  padding-bottom: 5vh;
+}

@@ -1,0 +1,13 @@
+.navbar {
+  border-bottom: 0.1rem solid #f5f6f7;
+}
+
+.navbar-logo {
+  background-image: url(/images/logo.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  display: inline-block;
+  width: 4rem;
+  height: 4rem;
+}
